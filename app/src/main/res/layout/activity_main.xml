@@ -63,10 +63,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
+        android:text="_______"
         android:textColor="@color/textBlue"
         android:textSize="25sp"
-        android:textStyle="bold"
-        android:text="237466757"/>
+        android:textStyle="bold" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -74,15 +74,16 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:textColor="#8F9090"/>
+
     <TextView
         android:id="@+id/tvAgeInDays"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
+        android:text="_______"
         android:textColor="@color/textBlue"
         android:textSize="25sp"
-        android:textStyle="bold"
-        android:text="237466757"/>
+        android:textStyle="bold" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -90,15 +91,16 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:textColor="#8F9090"/>
+
     <TextView
         android:id="@+id/tvAgeInHrs"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="23726885"
-        android:textSize="25sp"
-        android:textStyle="bold"
+        android:layout_marginTop="25dp"
+        android:text="_______"
         android:textColor="@color/textBlue"
-        android:layout_marginTop="25dp"/>
+        android:textSize="25sp"
+        android:textStyle="bold" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -106,15 +108,16 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:textColor="#8F9090"/>
+
     <TextView
         android:id="@+id/tvAgeInMinutes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="23726885"
-        android:textSize="25sp"
-        android:textStyle="bold"
+        android:layout_marginTop="25dp"
+        android:text="_______"
         android:textColor="@color/textBlue"
-        android:layout_marginTop="25dp"/>
+        android:textSize="25sp"
+        android:textStyle="bold" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
